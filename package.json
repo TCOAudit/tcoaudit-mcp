@@ -1,0 +1,14 @@
+{
+  "name": "tcoaudit-mcp",
+  "version": "1.0.0",
+  "description": "Zero-dependency Model Context Protocol (MCP) server for 36-month B2B SaaS TCO modeling and website llms.txt/SEO readiness checks.",
+  "homepage": "https://tcoaudit.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TCOAudit/tcoaudit-mcp.git"
+  },
+  "license": "MIT",
+  "bin": {
+    "tcoaudit-mcp": "./server.py"
+  }
+}
