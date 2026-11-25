@@ -1,5 +1,9 @@
 # tcoaudit-mcp
 
+
+
+[![TCOAudit/tcoaudit-mcp MCP server](https://glama.ai/mcp/servers/TCOAudit/tcoaudit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/TCOAudit/tcoaudit-mcp)
+
 Zero-dependency Python 3 Model Context Protocol (MCP) server for 36-month B2B SaaS Total Cost of Ownership modeling and website AI-search readiness checks. Built with the Python standard library only.
 
 > **Disclosure:** Maintained by [TCO Audit](https://tcoaudit.com). Optional provisioning links routed through `tcoaudit.com/go/*` may earn a partner commission at no extra cost to you.
